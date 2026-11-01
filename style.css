@@ -45,6 +45,7 @@ main {
     font-weight: 900;
     color: #fff;
     max-height: 65px;
+    text-transform: uppercase;
 }
 
 .keycap:nth-child(1) {
@@ -69,4 +70,10 @@ main {
 #space {
     grid-column-start: 4;
     grid-column-end: 11;
+}
+
+.pressed {
+    background: #4ad24f !important;
+    color: #111;
+    box-shadow: 0 0 10px #276c29c2;
 }
