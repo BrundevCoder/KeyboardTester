@@ -23,5 +23,9 @@ Pressing:
 
 ![esc key pressed](readmeImages/esc-key-pressed.png)
 
+Also, you can enable or disable the feature "Mark Forever", if this is turned On, the keys you press will be green until you disable this feature, but if this is turned Off, they keys will stop showing green when you're not pressing them.
+
+![Mark Forever](readmeImages/mark.png)
+
 ### Some keys don't work!?!
 There are also some keys that may not work here, like "Print", "Light" and "FN" because I guess JavaScript just really doesn't support that.
