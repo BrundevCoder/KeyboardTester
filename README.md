@@ -16,9 +16,11 @@ If they turn green, that means that there are working fine, if not, the key prob
 
 like this:
 Without pressing:
+
 ![esc key](readmeImages/esc-not-pressed.png)
 
 Pressing:
+
 ![esc key pressed](readmeImages/esc-key-pressed.png)
 
 ### Some keys don't work!?!
