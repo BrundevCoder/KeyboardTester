@@ -77,3 +77,22 @@ main {
     color: #111;
     box-shadow: 0 0 10px #276c29c2;
 }
+
+.floating-settings {
+    font-family: "Google Sans", sans-serif;
+    font-size: 21px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 1.5rem;
+    padding: 1.7rem 1.2rem;
+    background: #3534345d;
+    color: #fff;
+    border-radius: 12px;
+    corner-shape: superellipse(1.25);
+    backdrop-filter: blur(10px);
+}
